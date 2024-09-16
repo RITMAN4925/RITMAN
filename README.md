@@ -1,0 +1,2 @@
+# RITMAN
+Latihan algoritma
